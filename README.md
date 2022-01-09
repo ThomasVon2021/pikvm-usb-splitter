@@ -33,3 +33,5 @@ An adaptor of this kind does not fall within the USB specification. It's designe
 
 ![image-20220107154909710](USB-Splitter.assets/image-20220107154909710.png)
 
+## 3.Test video
+USB splitter  https://www.youtube.com/watch?v=4Od5MjBHbhY
